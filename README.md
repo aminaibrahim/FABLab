@@ -4,7 +4,7 @@
 I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. 
 
 
-### MY FABLAB WORKSHOP EXPERIENCE
+### MY FABLAB WORKSHOP EXPERIENCE...
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
