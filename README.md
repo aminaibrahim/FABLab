@@ -1,7 +1,7 @@
 
 ## About Me
 
-I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal professional growth. 
+I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. 
 
 
 ### Markdown
