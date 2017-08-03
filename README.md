@@ -1,9 +1,8 @@
 
-## MY FIRST DAY
+## About Me
 
-You can use the [editor on GitHub](https://github.com/aminaibrahim/aminaibrahim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal professional growth. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 [VISIT FACEBOOK PROFILE]
