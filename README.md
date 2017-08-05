@@ -42,16 +42,19 @@
  
  
  
- Then the next activity of the session is to get introduced to different websites like Thinkiverse, Instructubles, GrabCad etcthat are helpful for getting idea about FabLab. 
- And that was the end of the session. Intresting.....isnt?
+ Then the next activity of the session is to get introduced to different websites like Thinkiverse, Instructubles, GrabCad etcthat are helpful for getting idea about FabLab. We all made accounts on those sites.
+ 
+    And that was the end of the session. Intresting.....isnt?
  
  
  ## Day 2
 
  
-                    
-
- 
+   And there started the much awaited 2nd day of the session.
+   
+   The main focus of todays session was the importance of documenting using GitHub pages. Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. The trainer gave us a deatiled seesion in how to document the training  sessions. 
+   Then we were introduced with the machines in the lab. Our FabLab c
+   
 
 
 Syntax highlighted code block
