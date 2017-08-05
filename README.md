@@ -27,7 +27,9 @@
   
  ## A WALK THROUGH THE TRAINING...
  
- # DAY 1
+ # Day 1
+ 
+ 
                     
 
  
@@ -47,7 +49,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link]() ahttp://www.google.co.in/url?q=https://en.wikipedia.org/wiki/Fab_lab&sa=U&ved=0ahUKEwj_hp7WlMDVAhUBPI8KHepPA-oQwW4IFTAA&usg=AFQjCNE29LJTqq_LH6h_RWwkUWh74BpWlgnd ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
