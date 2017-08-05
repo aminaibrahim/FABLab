@@ -27,7 +27,7 @@
   
  ## A WALK THROUGH THE TRAINING...
  
- # Day 1
+ # Day 1 
  
  
                     
