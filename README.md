@@ -1,13 +1,27 @@
 
 ## About Me
 
-I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. 
+            I am AMINA K. I. studying computer science and engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. I am so passionate about latest and innovative technologies which aims at community welfare. 
 
 
 ### MY FABLAB WORKSHOP EXPERIENCE...
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      ##    WHAT IS FABLAB..???
+      
+             -BBBN
+            
+            FABLAB.. Its merely a fabrication lab. 
+                 FabLab digital fabrication laboratories were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technologies. The idea was conceived by renowned inventor and scientist, Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). 
 
-```markdown
+ At the heart of “FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling. It can produce a single unique product from a digital design in a matter of minutes- and at a very low cost in comparison to traditional tooling methods.
+
+ “FabLab - MESCE” also hosts a number other technologies and equipments which provide broad manufacturing capability, including precision laser  cutters and moulding and milling equipment through electronic  components and circuit boards.
+ 
+ ##WHAT ISPIRED ME TO ATTEND THE TRAINING?
+                    
+
+ 
+
+
 Syntax highlighted code block
 
 # Header 1
