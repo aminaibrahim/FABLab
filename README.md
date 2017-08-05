@@ -20,6 +20,8 @@
  
  
  # What inspired me to attend the training?
+ 
+ 
   
   The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Enginnering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about. 
   
@@ -27,7 +29,9 @@
   
  ## A WALK THROUGH THE TRAINING SESSION... 
  
- # Day 1 
+ 
+ # Day 1
+ 
  
  The first day at the session was actually an introductory class. Our trainee was Mr. Jaseel Ibnu Muhammed gave an idea about the cocept of FabLab. He just went through the history of Fablab. The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil Gershenfeld of the Massachusetts Institute of Technology (MIT), who started a study into the computational capacities that are inherent to physical systems. As a sign of honour, Neil, Father of FabLab described Vigyan Ashram as ‘Fab Lab – 0’. 
  
@@ -40,6 +44,9 @@
  
  Then the next activity of the session is to get introduced to different websites like Thinkiverse, Instructubles, GrabCad etcthat are helpful for getting idea about FabLab. 
  And that was the end of the session. Intresting.....isnt?
+ 
+ 
+ ## Day 2
 
  
                     
