@@ -7,9 +7,9 @@
 
             
 
-# MY FABLAB WORKSHOP EXPERIENCE...
+## MY FABLAB WORKSHOP EXPERIENCE...
 
-## WHAT IS A  FABLAB?
+# What is a Fablab?
             
  FABLAB.. Its merely a fabrication lab. 
                  FabLab digital fabrication laboratories were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technologies. The idea was conceived by renowned inventor and scientist, Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). 
