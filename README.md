@@ -18,12 +18,16 @@
  “FabLab - MESCE” also hosts a number other technologies and equipments which provide broad manufacturing capability, including precision laser  cutters and moulding and milling equipment through electronic  components and circuit boards.
  It was decided to conduct a 2 week training programme for the students to familarise with the machines and technologies.
  
- ## What inspired me to attend the training?
+ 
+ # What inspired me to attend the training?
   
   The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Enginnering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about. 
   
   
+  
  ## A WALK THROUGH THE TRAINING...
+ 
+ # DAY 1
                     
 
  
