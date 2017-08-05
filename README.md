@@ -25,7 +25,7 @@
   
   
   
- ## A WALK THROUGH THE TRAINING SESSION...
+ ## A WALK THROUGH THE TRAINING SESSION... 
  
  # Day 1 
  
