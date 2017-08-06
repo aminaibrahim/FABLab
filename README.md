@@ -75,30 +75,3 @@ The software used  is EAGLE (Easily Applicable Graphical Layout Editor) , a scri
    
    
 
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3  
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link]() ahttp://www.google.co.in/url?q=https://en.wikipedia.org/wiki/Fab_lab&sa=U&ved=0ahUKEwj_hp7WlMDVAhUBPI8KHepPA-oQwW4IFTAA&usg=AFQjCNE29LJTqq_LH6h_RWwkUWh74BpWlgnd ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aminaibrahim/aminaibrahim.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
