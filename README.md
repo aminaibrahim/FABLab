@@ -9,8 +9,10 @@
 
 ## MY FABLAB WORKSHOP EXPERIENCE...
 
+
 # What is a FabLab?
-            
+
+img src=aminaibrahim.github.io/images.png
  FABLAB.. Its merely "a place where we can make almost anything". FabLab digital fabrication laboratories were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technologies. The idea was conceived by renowned inventor and scientist, Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT). 
 
  At the heart of “FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling. It can produce a single unique product from a digital design in a matter of minutes- and at a very low cost in comparison to traditional tooling methods.
