@@ -36,6 +36,10 @@
  
  
  The first day at the session was actually an introductory class. Our trainee was Mr. Jaseel Ibnu Muhammed gave an idea about the cocept of FabLab. He just went through the history of Fablab. The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil Gershenfeld of the Massachusetts Institute of Technology (MIT), who started a study into the computational capacities that are inherent to physical systems. As a sign of honour, Neil, Father of FabLab described Vigyan Ashram as ‘Fab Lab – 0’. 
+ ![untitled](https://user-images.githubusercontent.com/30692869/29263136-38f3eba6-80f5-11e7-942c-8acfd50e7a9b.jpg)
+ 
+ 
+ 
  
  
  
