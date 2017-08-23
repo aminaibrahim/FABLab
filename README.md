@@ -16,7 +16,7 @@
    - Day 3 - Electronic Production and CNC
    - Day 4 - Vinyl cutting
    - Day 5 - Screen Printing
-   - Day 6 - 3D Printing aminaibrahim.github.io/3D Printing  
+   - Day 6 - 3D Printing   aminaibrahim.github.io/3d printing .md
    - Day 7 - Laser Cutting, Moulding, Casting
    - PROJECT
 
