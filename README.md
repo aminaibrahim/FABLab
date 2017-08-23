@@ -8,17 +8,6 @@
  ## "MY FABLAB WORKSHOP EXPERIENCE..."
 <hr>
 
-# Table of Contents 
-
-
-   - Day 1 - [Introduction to FABLab](http://aminaibrahim.github.io/intro)
-   - Day 2 - Github Pages and Documentation
-   - Day 3 - Electronic Production and CNC
-   - Day 4 - Vinyl cutting
-   - Day 5 - Screen Printing
-   - Day 6 - [3D Printing](http://aminaibrahim.github.io/3d)
-   - Day 7 - Laser Cutting, Moulding, Casting
-   - PROJECT
 
             
 
@@ -42,47 +31,30 @@
  
  
   
-  The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Enginnering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about. 
+  The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Enginnering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about.   
+
   
   
-## A WALK THROUGH THE TRAINING SESSIONS...
+  
+  
+  # Table of Contents 
+
+
+   - Day 1 - [Introduction to FABLab](http://aminaibrahim.github.io/intro)
+   - Day 2 - Github Pages and Documentation
+   - Day 3 - Electronic Production and CNC
+   - Day 4 - Vinyl cutting
+   - Day 5 - Screen Printing
+   - Day 6 - [3D Printing](http://aminaibrahim.github.io/3d)
+   - Day 7 - Laser Cutting, Moulding, Casting
+   - PROJECT
+
+  
+  
+  
+  
+
   
 
  
-
-# Day 2
-
- 
-   And there started the much awaited 2nd day of the session.
-   
-   The main focus of todays session was the importance of documenting using GitHub pages. Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. The trainer gave us a deatiled seesion in how to document the training  sessions. 
-   Then we were introduced with the machines in the lab. Our FabLab contains machines like
-   - Epilog Mini Laser Cutter
-   - Roland CAMM-1 Servo GX-24
-   - 3D Printer
-   - Vinyl Cutter
-   - ShopBot CNC
-   
-   ![untitled](https://user-images.githubusercontent.com/30692869/29597570-0c2429d6-87e1-11e7-993d-98414c42824b.png)
-
-   
-   
-   
-   
-   
-   
-   
-   
-   We were divided into two groups. The first machine that I learnt was ShopBot CNC.
-   
-CNC stands for computer numerical control. A CNC can be used in the production of many different items, such as printed circuit board, door carvings, interior and exterior decorations, wood panels, sign boards, wooden frames, moldings, musical instruments, furniture, and so on. 
-The main component is a board. We use copper boards even though silver boards are better since the latter is expensive. FR-4 board is used in the lab. There are available i 2  sizes. 
-     - 1/32 which is maainly used for cuttting.
-     - 1/64 which is mainly ised for hutching
-The software used  is EAGLE (Easily Applicable Graphical Layout Editor) , a scriptable electronic design automation application with schematic capture, printed circuit board layout, auto-router and computer-aided manufacturing features. 
-   
-   
-   
-   
-   
 
