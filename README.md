@@ -4,6 +4,7 @@
 
 
  I am AMINA K. I. studying Computer Science and Engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. I am so passionate about latest and innovative technologies which aims at community welfare. 
+ <hr>
 
  ## "MY FABLAB WORKSHOP EXPERIENCE..."
 <hr>
@@ -12,7 +13,7 @@
             
 
 
-#  What is a FabLab?  
+##  What is a FabLab?  
 
  ![fab_lab_logo svg](https://user-images.githubusercontent.com/30692869/29262395-f7ab7a18-80f1-11e7-9f60-a073eb889508.png)
 
@@ -27,7 +28,7 @@
  “FabLab - MESCE” also hosts a number other technologies and equipments which provide broad manufacturing capability, including precision laser  cutters and moulding and milling equipment through electronic  components and circuit boards.
  It was decided to conduct a 2 week training programme for the students to familarise with the machines and technologies.
  
-# What inspired me to attend the training?
+## What inspired me to attend the training?
  
  
   
