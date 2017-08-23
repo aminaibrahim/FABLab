@@ -19,7 +19,11 @@
  
  Then the next activity of the session is to get introduced to different resourceful websites. Some are  
  -Thinkiverse
+   ![thiki](https://user-images.githubusercontent.com/30692869/29603332-741fdea2-8801-11e7-9d77-39475e0ebb29.png)
+ 
  -Instructubles
+ 
+ 
  -GrabCad 
  -Makercase
  -InkScape
