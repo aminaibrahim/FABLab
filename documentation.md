@@ -15,6 +15,10 @@
       # Step 2
       
       
+   ![sinup3](https://user-images.githubusercontent.com/30692869/29624522-ec7f9c62-8846-11e7-80f5-71c4f30799b5.png)
+
+      
+      
    
    
    
