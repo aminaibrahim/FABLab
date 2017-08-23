@@ -11,7 +11,7 @@
 
 
 
-## A WALK THROUGH THE FABLAB TRAINING SESSION...
+## A Walk Through The FABLAB Training Session...
             
 
 
