@@ -9,9 +9,7 @@
    
    -Signup to GitHub
    
-      # Step 1
-      ![sig](https://user-images.githubusercontent.com/30692869/29624443-b6382066-8846-11e7-895c-9138a00f7e6e.png)
-      
+     
       
       # Step 2
       
