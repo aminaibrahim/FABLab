@@ -7,20 +7,20 @@
 
 
             
-# Table of Contents
- 
- 
- 
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+# Table of Contents 
+
+
+   - Day 1 - Introduction to FABLab
+   - Day 2 - Github Pages and Documentation
+   - Day 3 - Electronic Production and CNC
+   - Day 4 - Vinyl cutting
+   - Day 5 - Screen Printing
+   - Day 6 - 3D Printing
+   - Day 7 - Laser Cutting, Moulding, Casting
+   
+   
+     PROJECT
+
             
 
 ## "MY FABLAB WORKSHOP EXPERIENCE..."
