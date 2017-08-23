@@ -41,7 +41,7 @@
 
 
    - Day 1 - [Introduction to FABLab](http://aminaibrahim.github.io/intro)
-   - Day 2 - Github Pages and Documentation
+   - Day 2 - [Github Pages and Documentation](http://aminaibrahim.github.io/documentation.mdn)
    - Day 3 - Electronic Production and CNC
    - Day 4 - Vinyl cutting
    - Day 5 - Screen Printing
