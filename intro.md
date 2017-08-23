@@ -34,11 +34,12 @@
  
  -Makercase
     
-                    ![maker](https://user-images.githubusercontent.com/30692869/29603665-a31445f8-8802-11e7-8e58-576670168213.png)
+  ![maker](https://user-images.githubusercontent.com/30692869/29603665-a31445f8-8802-11e7-8e58-576670168213.png)
 
  
  -InkScape
  
+ ![inks](https://user-images.githubusercontent.com/30692869/29603703-c9ef7936-8802-11e7-8f8a-7b522cbfc1a7.png)
  They are helpful for getting idea about FabLab. We all made accounts on those sites.
  And that was the end of the session. Intresting.....isnt?
  
