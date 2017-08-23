@@ -7,7 +7,7 @@
 
             
 
-##< "MY FABLAB WORKSHOP EXPERIENCE...">
+## "MY FABLAB WORKSHOP EXPERIENCE..."
 <hr>
 
 # What is a FabLab?
