@@ -18,26 +18,28 @@
 
  
  Then the next activity of the session is to get introduced to different resourceful websites. Some are  
- -Thinkiverse
+ 
+ 
+ # - Thinkiverse
    ![thiki](https://user-images.githubusercontent.com/30692869/29603332-741fdea2-8801-11e7-9d77-39475e0ebb29.png)
  
- -Instructubles
+# -Instructubles
 ![instr](https://user-images.githubusercontent.com/30692869/29603421-b725926e-8801-11e7-9640-16b8c604b63d.png)
 
  
  
  
- -GrabCad
+# - GrabCad
  ![grab](https://user-images.githubusercontent.com/30692869/29603559-3b435dba-8802-11e7-8202-7d0fd6749bf8.png)
  
  
  
- -Makercase
+ # - Makercase
     
   ![maker](https://user-images.githubusercontent.com/30692869/29603665-a31445f8-8802-11e7-8e58-576670168213.png)
 
  
- -InkScape
+# - InkScape
  
  ![inks](https://user-images.githubusercontent.com/30692869/29603703-c9ef7936-8802-11e7-8f8a-7b522cbfc1a7.png)
  They are helpful for getting idea about FabLab. We all made accounts on those sites.
