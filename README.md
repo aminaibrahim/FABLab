@@ -5,8 +5,9 @@
 
  I am AMINA K. I. studying Computer Science and Engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. I am so passionate about latest and innovative technologies which aims at community welfare. 
 
+ ## "MY FABLAB WORKSHOP EXPERIENCE..."
+<hr>
 
-            
 # Table of Contents 
 
 
@@ -17,14 +18,10 @@
    - Day 5 - Screen Printing
    - Day 6 - 3D Printing
    - Day 7 - Laser Cutting, Moulding, Casting
-   
-   
-     PROJECT
+   - PROJECT
 
             
 
-## "MY FABLAB WORKSHOP EXPERIENCE..."
-<hr>
 
 # What is a FabLab?
 
