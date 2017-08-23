@@ -11,7 +11,7 @@
 # Table of Contents 
 
 
-   - Day 1 - [Introduction to FABLab]((http://aminaibrahim.github.io/intro)
+   - Day 1 - [Introduction to FABLab](http://aminaibrahim.github.io/intro)
    - Day 2 - Github Pages and Documentation
    - Day 3 - Electronic Production and CNC
    - Day 4 - Vinyl cutting
