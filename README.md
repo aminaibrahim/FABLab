@@ -23,7 +23,7 @@
             
 
 
-# What is a FabLab?
+#  What is a FabLab?  
 
  ![fab_lab_logo svg](https://user-images.githubusercontent.com/30692869/29262395-f7ab7a18-80f1-11e7-9f60-a073eb889508.png)
 
@@ -47,9 +47,9 @@
   
 ## A WALK THROUGH THE TRAINING SESSIONS...
   
- 
- 
  # Day 1
+ 
+
  
  
  The first day at the session was actually an introductory class. Our trainee was Mr. Jaseel Ibnu Muhammed gave an idea about the cocept of FabLab. He just went through the history of Fablab. The origin is in the Center for Bits and Atoms (CBA), headed by Prof. Dr. Neil Gershenfeld of the Massachusetts Institute of Technology (MIT), who started a study into the computational capacities that are inherent to physical systems. As a sign of honour, Neil, Father of FabLab described Vigyan Ashram as ‘Fab Lab – 0’. 
@@ -73,7 +73,11 @@
  And that was the end of the session. Intresting.....isnt?
  
  
- ## Day 2
+ <hr>
+ 
+ 
+
+# Day 2
 
  
    And there started the much awaited 2nd day of the session.
