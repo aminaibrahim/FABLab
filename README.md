@@ -13,7 +13,8 @@
             
 
 
-##  What is a FabLab?  
+   
+## What is FABLAB?
 
  ![fab_lab_logo svg](https://user-images.githubusercontent.com/30692869/29262395-f7ab7a18-80f1-11e7-9f60-a073eb889508.png)
 
