@@ -1,12 +1,12 @@
 
-## About Me
+## ABOUT ME
 
 
  I am AMINA K. I. studying Computer Science and Engineering. I am seeking for the best oppurtunity that encourages learning and explosure to new ideas and stimulates personal and professional growth. I am so passionate about latest and innovative technologies which aims at community welfare. 
 
 
             
- # TABLE OF CONTENTS
+ # Table of Contents
  
  
             
