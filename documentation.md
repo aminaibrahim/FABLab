@@ -44,10 +44,13 @@
  - Click '+' to create new repository
  - Give a suitable repository name with extension .github.io
  - Select 'CREATE REPOSITORY'
+ 
 
 
   # Step 4
   
+  
+  ![edit](https://user-images.githubusercontent.com/30692869/29781701-b6063804-8c37-11e7-8d74-0aafb849dfbb.png)
   
 Following is the step to code the page in previously created account on GITHUB:
 
