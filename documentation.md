@@ -44,6 +44,8 @@
  - Click '+' to create new repository
  - Give a suitable repository name with extension .github.io
  - Select 'CREATE REPOSITORY'.
+ 
+ 
  ![repo](https://user-images.githubusercontent.com/30692869/29781801-014c9d62-8c38-11e7-8e4d-8356dd5c7aeb.png
 
 
