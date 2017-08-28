@@ -35,26 +35,32 @@
       
       
       
-   ![sinup3](https://user-images.githubusercontent.com/30692869/29624522-ec7f9c62-8846-11e7-80f5-71c4f30799b5.png) Then Sign in into the account
- - Select 'START A PROJECT' to create new repository
- - Give a suitable repository name
+   ![sinup3](https://user-images.githubusercontent.com/30692869/29624522-ec7f9c62-8846-11e7-80f5-71c4f30799b5.png)
+   Then Sign in into the account
+   
+   
+   # Step 3
+   
+ - Click '+' to create new repository
+ - Give a suitable repository name with extension .github.io
  - Select 'CREATE REPOSITORY'
 
 
-HTML CODING
-We need to know some basic HTML coding to maintain a page.Following is the step to code the page in previously created account on GITHUB:
+  # Step 4
+  
+  
+Following is the step to code the page in previously created account on GITHUB:
 
-- Login into GITHUB account
-- Select your ID on right bottom corner
-- Now select 'CODE' on the menu
-- Select your already created project, as mentioned in above section
-- Click on the edit button on the panel on right side(PEN symbol)
+- Login into GITHUB account.
+- Now select 'CODE' on the menu.
+- Select your already created project, as mentioned in above section.
+- Click on the edit button on the panel on right side(PEN symbol).
 - The coding page appears. Code it according to the need.
        For those who are new to coding.A model coding page na
        med 'README.md' is available on 'CODE' page.This can ut 
        ilised to learn coding.
 - After coding click 'COMMIT CHANGES'.Check the page for the updates.
-       Also visit w3schools.com to learn some basic coding.
+       
    
    
    
