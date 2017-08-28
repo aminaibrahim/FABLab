@@ -43,8 +43,8 @@
    
  - Click '+' to create new repository
  - Give a suitable repository name with extension .github.io
- - Select 'CREATE REPOSITORY'
- 
+ - Select 'CREATE REPOSITORY'.
+ ![repo](https://user-images.githubusercontent.com/30692869/29781801-014c9d62-8c38-11e7-8e4d-8356dd5c7aeb.png
 
 
   # Step 4
@@ -63,27 +63,22 @@ Following is the step to code the page in previously created account on GITHUB:
        med 'README.md' is available on 'CODE' page.This can ut 
        ilised to learn coding.
 - After coding click 'COMMIT CHANGES'.Check the page for the updates.
+
+
+NOW START DOCUMENTING....
        
    
    
    
+<hr>
 
+[BACK TO HOME](http;//aminaibrahim.github.io]
       
       
    
    
    
-   Then we were introduced with the machines in the lab. Our FabLab contains machines like
-   - Epilog Mini Laser Cutter
-   - Roland CAMM-1 Servo GX-24
-   - 3D Printer
-   - Vinyl Cutter
-   - ShopBot CNC
-   
-   ![untitled](https://user-images.githubusercontent.com/30692869/29597570-0c2429d6-87e1-11e7-993d-98414c42824b.png)
-
-   
-   
+  
    
    
    
