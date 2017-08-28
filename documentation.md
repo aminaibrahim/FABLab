@@ -1,4 +1,4 @@
-# Day 2
+# Day 2 - DOCUMENTATION USING GITHUB PAGES
 
  
    And there started the much awaited 2nd day of the session.
@@ -74,7 +74,8 @@ NOW START DOCUMENTING....
    
 <hr>
 
-[BACK TO HOME](http;//aminaibrahim.github.io]
+
+ [Back to Home](https://aminaibrahim.github.io)
       
       
    
