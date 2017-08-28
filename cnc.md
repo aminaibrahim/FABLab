@@ -1,3 +1,20 @@
+ Then we were introduced with the machines in the lab. Our FabLab contains machines like
+   - Epilog Mini Laser Cutter
+   - Roland CAMM-1 Servo GX-24
+   - 3D Printer
+   - Vinyl Cutter
+   - ShopBot CNC
+   
+   ![untitled](https://user-images.githubusercontent.com/30692869/29597570-0c2429d6-87e1-11e7-993d-98414c42824b.png)
+
+   
+   
+
+
+
+
+
+
 We were divided into two groups. The first machine that I learnt was ShopBot CNC.
    
 CNC stands for computer numerical control. A CNC can be used in the production of many different items, such as printed circuit board, door carvings, interior and exterior decorations, wood panels, sign boards, wooden frames, moldings, musical instruments, furniture, and so on. 
