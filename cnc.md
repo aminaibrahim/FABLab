@@ -38,7 +38,9 @@ The main component is a board. We use copper boards even though silver boards ar
      - 1/64 which is mainly ised for hutching
      
 The software used  is EAGLE (Easily Applicable Graphical Layout Editor) , a scriptable electronic design automation application with schematic capture, printed circuit board layout, auto-router and computer-aided manufacturing features. 
-
+  
+  
+  # STEPS FOR PCB MILLING.
 - The image for PCB Milling is downloaded from FABMODULES. Now image is opened in the software as input in SPB format. 
 - Now select the output form.
 - Next select the process foam rough cut(1/8).
@@ -57,6 +59,8 @@ Now select the parameters as below.
 
 
 
-And now click save. Now an SPB File will be downloaded.
+- And now click save. Now an SPB File will be downloaded.
    
-   
+- Now open the SHOPBOT3 software.
+          Set  x, y, z parameters to 0.
+          
