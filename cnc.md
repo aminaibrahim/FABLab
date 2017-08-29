@@ -64,4 +64,3 @@ Now select the parameters as below.
 - Now open the SHOPBOT3 software.
           Set  x, y, z parameters to 0.
           
-![ec5 1](https://user-images.githubusercontent.com/30692869/29829397-f457d930-8cfc-11e7-90ad-6ac525fb1ba4.PNG)
