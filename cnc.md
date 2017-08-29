@@ -64,3 +64,9 @@ Now select the parameters as below.
 - Now open the SHOPBOT3 software.
           Set  x, y, z parameters to 0.
           
+ ![shopbot_software 1](https://user-images.githubusercontent.com/30692869/29829758-dd5d4106-8cfd-11e7-9d42-9caf248d3b68.jpg)
+ 
+ - Now switch on the machine.
+ - Next thing to do is stick the PCB so that it stays firm. Take care so that the sacrificial layer is not damaged.
+ - Now start printing the PCB.
+          
