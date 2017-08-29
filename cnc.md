@@ -49,7 +49,7 @@ The software used  is EAGLE (Easily Applicable Graphical Layout Editor) , a scri
 
 
 
-Now select the parameters as below.
+- Now select the parameters as below.
 
 
 
