@@ -55,3 +55,7 @@ The following is my work on the machine.
 
 
 ![laser3](https://user-images.githubusercontent.com/30692869/29834306-0d086cf6-8d0c-11e7-8043-e1fb149858d8.png)
+
+
+
+![laser8](https://user-images.githubusercontent.com/30692869/29834365-4090c5fa-8d0c-11e7-8a71-f2f9f81fb65a.png)
