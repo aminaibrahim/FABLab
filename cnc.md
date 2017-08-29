@@ -69,4 +69,8 @@ The software used  is EAGLE (Easily Applicable Graphical Layout Editor) , a scri
  - Now switch on the machine.
  - Next thing to do is stick the PCB so that it stays firm. Take care so that the sacrificial layer is not damaged.
  - Now start printing the PCB.
+ 
+ <hr>
+ 
+ [BACK TO HOME](http://aminaibrahim.github.io)
           
