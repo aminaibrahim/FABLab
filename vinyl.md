@@ -1,5 +1,5 @@
 
-# DAY 5-VINYL CUTTING
+# DAY 4-VINYL CUTTING
    Vinyl cutting machine is a simple machine used for different printing purposes like stickers, Shirt printing etc. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic.
 
 
