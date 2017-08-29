@@ -33,7 +33,7 @@ We were divided into two groups. The first machine that I learnt was ShopBot CNC
     
     
     
-The main component is a board. We use copper boards even though silver boards are better since the latter is expensive. FR-4 board is used in the lab. There are available i 2  sizes. 
+The main component is a board. We use copper boards even though silver boards are better since the latter is expensive. FR-4 board is used in the lab. There are available i 2  sizes.  
      - 1/32 which is maainly used for cuttting.
      - 1/64 which is mainly ised for hutching
      
