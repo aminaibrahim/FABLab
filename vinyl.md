@@ -5,9 +5,9 @@
 
 
 
-
-
-##STEPS
+# CUTSHOP SOFTWARE.
+ 
+## STEPS
 - Create your design using any software of your choice or choose one from any browser and open the file using the CutShop software. 
   The   image must be preferably gray scale to get the accurate design.
 - Right click and select trace the image outline. Change the settings as required and press enter key.
