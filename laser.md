@@ -1,5 +1,5 @@
 
-# DAY 7- LASER CUTTING
+# DAY 6- LASER CUTTING
   
 Epilog Laser Engraving and Cutting machine is used for laser cutting   
   
