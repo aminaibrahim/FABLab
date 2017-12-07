@@ -48,9 +48,8 @@
    - Day 2 - [Github Pages and Documentation](http://aminaibrahim.github.io/documentation)
    - Day 3 - [Electronic Production and CNC](http://aminaibrahim.github.io/cnc)
    - Day 4 - [Vinyl cutting](http://aminaibrahim.github.io/vinyl)
-   - Day 5 - [Screen Printing]
-   - Day 6 - [3D Printing](http://aminaibrahim.github.io/3d)
-   - Day 7 - [Laser Cutting, Moulding, Casting](http://aminaibrahim.github.io/laser)
+   - Day 5 - [3D Printing](http://aminaibrahim.github.io/3d)
+   - Day 6 - [Laser Cutting, Moulding, Casting](http://aminaibrahim.github.io/laser)
    - PROJECT
 
   
