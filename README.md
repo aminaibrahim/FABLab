@@ -35,7 +35,7 @@
  
  
   
-  The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Enginnering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about.   
+  The main thing that inspired me was to know what is FabLab. From different people i came to know that our college 'MES College Of Engineering , Kuttipuram is the only college in the malabar region to have a  FabLab. So as a final year student of this college, I want to know what it is all about.   
 
   
   
